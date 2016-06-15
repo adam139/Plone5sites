@@ -4,3 +4,57 @@
 [submodule "sites/src/emc.theme"]
 	path = sites/src/emc.theme
 	url = git@github.com:adam139/emc.theme.git
+[submodule "sites/src/my315ok.products"]
+	path = sites/src/my315ok.products
+	url = git@github.com:adam139/my315ok.products.git
+[submodule "sites/src/xtshzz.policy"]
+	path = sites/src/xtshzz.policy
+	url = git@github.com:adam139/xtshzz.policy.git
+[submodule "sites/src/my315ok.socialorgnization"]
+	path = sites/src/my315ok.socialorgnization
+	url = git@github.com:adam139/my315ok.socialorgnization.git
+[submodule "sites/src/my315ok.wechat"]
+	path = sites/src/my315ok.wechat
+	url = git@github.com:adam139/my315ok.wechat.git
+[submodule "sites/src/collective.portlet.bilingualtext"]
+	path = sites/src/collective.portlet.bilingualtext
+	url = git@github.com:adam139/collective.portlet.bilingualtext.git
+[submodule "sites/src/hjzgb.policy"]
+	path = sites/src/hjzgb.policy
+	url = git@github.com:adam139/hjzgb.policy.git
+[submodule "sites/src/lonsunn.policy"]
+	path = sites/src/lonsunn.policy
+	url = git@github.com:adam139/lonsunn.policy.git
+[submodule "sites/src/xtgl.policy"]
+	path = sites/src/xtgl.policy
+	url = git@github.com:adam139/xtgl.policy.git
+[submodule "sites/src/my315ok.diazo960"]
+	path = sites/src/my315ok.diazo960
+	url = git@github.com:adam139/my315ok.diazo960.git
+[submodule "sites/src/my315ok.policy"]
+	path = sites/src/my315ok.policy
+	url = git@github.com:adam139/my315ok.policy.git
+[submodule "sites/src/dexterity.membrane"]
+	path = sites/src/dexterity.membrane
+	url = git@github.com:adam139/dexterity.membrane.git
+[submodule "sites/src/my315ok.portlet.flash"]
+	path = sites/src/my315ok.portlet.flash
+	url = git@github.com:adam139/my315ok.portlet.flash.git
+[submodule "sites/src/my315ok.portlet.rollitems"]
+	path = sites/src/my315ok.portlet.rollitems
+	url = git@github.com:adam139/my315ok.portlet.rollitems.git
+[submodule "sites/src/my315ok.portlet.logo"]
+	path = sites/src/my315ok.portlet.logo
+	url = git@github.com:adam139/my315ok.portlet.logo.git
+[submodule "sites/src/my315ok.portlet.footer"]
+	path = sites/src/my315ok.portlet.footer
+	url = git@github.com:adam139/my315ok.portlet.footer.git
+[submodule "sites/src/my315ok.portlet.fetchouterhtml"]
+	path = sites/src/my315ok.portlet.fetchouterhtml
+	url = git@github.com:adam139/my315ok.portlet.fetchouterhtml.git
+[submodule "sites/src/my315ok.portlet.embediframe"]
+	path = sites/src/my315ok.portlet.embediframe
+	url = git@github.com:adam139/my315ok.portlet.embediframe.git
+[submodule "sites/src/collective.diazotheme.bootstrap"]
+	path = sites/src/collective.diazotheme.bootstrap
+	url = git@github.com:adam139/collective.diazotheme.bootstrap.git
