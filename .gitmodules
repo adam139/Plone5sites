@@ -58,3 +58,12 @@
 [submodule "sites/src/collective.diazotheme.bootstrap"]
 	path = sites/src/collective.diazotheme.bootstrap
 	url = git@github.com:adam139/collective.diazotheme.bootstrap.git
+[submodule "sites/src/wechat.policy"]
+	path = sites/src/wechat.policy
+	url = git@github.com:adam139/wechat.policy.git
+[submodule "sites/src/membrane.usersinout"]
+	path = sites/src/membrane.usersinout
+	url = git@github.com:adam139/membrane.usersinout.git
+[submodule "sites/src/xsgs.policy"]
+	path = sites/src/xsgs.policy
+	url = git@github.com:adam139/xsgs.policy.git
