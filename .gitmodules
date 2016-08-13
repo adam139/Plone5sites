@@ -1,6 +1,15 @@
 [submodule "sites/src/plonetheme.barceloneta"]
 	path = sites/src/plonetheme.barceloneta
 	url = git@github.com:adam139/plonetheme.barceloneta.git
+[submodule "sites/src/collective.indexing"]
+	path = sites/src/collective.indexing
+	url = https://github.com/plone/collective.indexing.git
+[submodule "sites/src/xtgl.theme"]
+	path = sites/src/xtgl.theme
+	url = git@github.com:adam139/xtgl.theme.git
+[submodule "sites/src/my315ok.theme"]
+	path = sites/src/my315ok.theme
+	url = git@github.com:adam139/lmy315ok.theme.git
 [submodule "sites/src/lonsunn.theme"]
 	path = sites/src/lonsunn.theme
 	url = git@github.com:adam139/lonsunn.theme.git
