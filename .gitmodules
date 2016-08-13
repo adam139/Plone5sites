@@ -7,9 +7,12 @@
 [submodule "sites/src/xtgl.theme"]
 	path = sites/src/xtgl.theme
 	url = git@github.com:adam139/xtgl.theme.git
+[submodule "sites/src/hjzgb.theme"]
+	path = sites/src/hjzgb.theme
+	url = git@github.com:adam139/hjzgb.theme.git
 [submodule "sites/src/my315ok.theme"]
 	path = sites/src/my315ok.theme
-	url = git@github.com:adam139/lmy315ok.theme.git
+	url = git@github.com:adam139/my315ok.theme.git
 [submodule "sites/src/lonsunn.theme"]
 	path = sites/src/lonsunn.theme
 	url = git@github.com:adam139/lonsunn.theme.git
