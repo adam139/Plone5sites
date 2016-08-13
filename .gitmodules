@@ -1,6 +1,9 @@
 [submodule "sites/src/plonetheme.barceloneta"]
 	path = sites/src/plonetheme.barceloneta
 	url = git@github.com:adam139/plonetheme.barceloneta.git
+[submodule "sites/src/lonsunn.theme"]
+	path = sites/src/lonsunn.theme
+	url = git@github.com:adam139/lonsunn.theme.git
 [submodule "sites/src/emc.theme"]
 	path = sites/src/emc.theme
 	url = git@github.com:adam139/emc.theme.git
