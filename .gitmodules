@@ -1,6 +1,9 @@
 [submodule "sites/src/plonetheme.barceloneta"]
 	path = sites/src/plonetheme.barceloneta
 	url = git@github.com:adam139/plonetheme.barceloneta.git
+[submodule "sites/src/plone.app.locales"]
+	url = https://github.com/adam18975257327/plone.app.locales.git
+	path = sites/src/plone.app.locales
 [submodule "sites/src/collective.indexing"]
 	path = sites/src/collective.indexing
 	url = https://github.com/plone/collective.indexing.git
