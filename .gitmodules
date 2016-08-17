@@ -88,3 +88,9 @@
 [submodule "sites/src/xsgs.theme"]
 	path = sites/src/xsgs.theme
 	url = git@github.com:adam139/xsgs.theme.git
+[submodule "sites/src/mockup"]
+	path = sites/src/mockup
+	url = git@github.com:adam139/mockup.git
+[submodule "sites/src/Products.CMFPlone"]
+	path = sites/src/Products.CMFPlone
+	url = git@github.com:adam139/Products.CMFPlone.git
