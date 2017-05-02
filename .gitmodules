@@ -94,3 +94,6 @@
 [submodule "sites/src/Products.CMFPlone"]
 	path = sites/src/Products.CMFPlone
 	url = git@github.com:adam139/Products.CMFPlone.git
+[submodule "sites/src/WeRoBot"]
+	path = sites/src/WeRoBot
+	url = https://github.com/adam139/WeRoBot.git
