@@ -103,3 +103,9 @@
 [submodule "sites/src/xtcs.theme"]
 	path = sites/src/xtcs.theme
 	url = git@github.com:adam139/xtcs.theme.git
+[submodule "sites/src/qyxycjh.theme"]
+	path = sites/src/qyxycjh.theme
+	url = git@github.com:adam139/qyxycjh.theme.git
+[submodule "sites/src/qyxycjh.policy"]
+	path = sites/src/qyxycjh.policy
+	url = git@github.com:adam139/qyxycjh.policy.git
