@@ -87,7 +87,7 @@
 	url = git@github.com:adam139/mockup.git
 [submodule "sites/src/WeRoBot"]
 	path = sites/src/WeRoBot
-	url = https://github.com/adam139/WeRoBot.git
+	url = git@github.com:adam139/WeRoBot.git
 [submodule "sites/src/xtcs.policy"]
 	path = sites/src/xtcs.policy
 	url = git@github.com:adam139/xtcs.policy.git
