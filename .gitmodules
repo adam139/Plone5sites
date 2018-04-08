@@ -1,9 +1,3 @@
-[submodule "sites/src/plonetheme.barceloneta"]
-	path = sites/src/plonetheme.barceloneta
-	url = git@github.com:adam139/plonetheme.barceloneta.git
-[submodule "sites/src/plone.app.locales"]
-	url = https://github.com/adam18975257327/plone.app.locales.git
-	path = sites/src/plone.app.locales
 [submodule "sites/src/collective.indexing"]
 	path = sites/src/collective.indexing
 	url = https://github.com/plone/collective.indexing.git
@@ -91,9 +85,6 @@
 [submodule "sites/src/mockup"]
 	path = sites/src/mockup
 	url = git@github.com:adam139/mockup.git
-[submodule "sites/src/Products.CMFPlone"]
-	path = sites/src/Products.CMFPlone
-	url = git@github.com:adam139/Products.CMFPlone.git
 [submodule "sites/src/WeRoBot"]
 	path = sites/src/WeRoBot
 	url = https://github.com/adam139/WeRoBot.git
