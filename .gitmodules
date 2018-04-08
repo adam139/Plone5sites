@@ -1,3 +1,6 @@
+[submodule "sites/src/collective.indexing"]
+	path = sites/src/collective.indexing
+	url = git@github.com:plone/collective.indexing.git
 [submodule "sites/src/xtgl.theme"]
 	path = sites/src/xtgl.theme
 	url = git@github.com:adam139/xtgl.theme.git
