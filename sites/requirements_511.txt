@@ -1,0 +1,6 @@
+setuptools== 39.1.0
+zc.buildout== 2.11.4
+lxml==4.2.1
+Pillow==5.2.0
+bs4
+
