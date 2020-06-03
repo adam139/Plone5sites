@@ -4,9 +4,6 @@
 [submodule "sites/src/my315ok.theme"]
 	path = sites/src/my315ok.theme
 	url = git@github.com:adam139/my315ok.theme.git
-[submodule "sites/src/lonsunn.theme"]
-	path = sites/src/lonsunn.theme
-	url = git@github.com:adam139/lonsunn.theme.git
 [submodule "sites/src/my315ok.products"]
 	path = sites/src/my315ok.products
 	url = git@github.com:adam139/my315ok.products.git
@@ -22,18 +19,12 @@
 [submodule "sites/src/hjzgb.policy"]
 	path = sites/src/hjzgb.policy
 	url = git@github.com:adam139/hjzgb.policy.git
-[submodule "sites/src/lonsunn.policy"]
-	path = sites/src/lonsunn.policy
-	url = git@github.com:adam139/lonsunn.policy.git
 [submodule "sites/src/my315ok.policy"]
 	path = sites/src/my315ok.policy
 	url = git@github.com:adam139/my315ok.policy.git
 [submodule "sites/src/dexterity.membrane"]
 	path = sites/src/dexterity.membrane
 	url = git@github.com:adam139/dexterity.membrane.git
-[submodule "sites/src/my315ok.portlet.flash"]
-	path = sites/src/my315ok.portlet.flash
-	url = git@github.com:adam139/my315ok.portlet.flash.git
 [submodule "sites/src/collective.diazotheme.bootstrap"]
 	path = sites/src/collective.diazotheme.bootstrap
 	url = git@github.com:adam139/collective.diazotheme.bootstrap.git
