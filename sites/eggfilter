@@ -1,0 +1,16 @@
+- collective.jstraining
+- dexterity.membrane_python3
+- collective.filepreviewbehavior
+- hjzgb.policy
+- hjzgb.theme
+- my315ok.spider
+- xsgs.policy
+- xsgs.theme
+- xtgl.theme
+- xtgl.policy
+- node_modules
+- .git
+- *.pid
+- *.pyc
+- *.pyo
+- *.old
